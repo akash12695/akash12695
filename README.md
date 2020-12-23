@@ -1,7 +1,5 @@
 ### Hi mates👋, my name is Akash Mishra
 
-<!--
-**akash12695/akash12695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working as Quality Engineer @LTI.
 - 🌱 I’m currently learning more about Machine Learning algorithms,Deep Learning and diving deeper in the field of Data Science.
